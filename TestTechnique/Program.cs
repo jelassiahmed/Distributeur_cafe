@@ -12,7 +12,7 @@
             double eauPrix = 0.05;
 
             // Prix des boissons (avec marge de 30%)
-            double espressoPrix = (2 * cafePrix + 1 * eauPrix) * 1.3;
+            double espressoPrix = (1 * cafePrix + 2 * eauPrix) * 1.3;
             double laitPrix = (2 * laitPoudrePrix + 1 * eauPrix) * 1.3;
             double capuccinoPrix = (2 * laitPoudrePrix + 1 * eauPrix + 1 * cafePrix + 1 * chocolatPrix) * 1.3;
             double chocolatChaudPrix = (3 * eauPrix + 2 * chocolatPrix) * 1.3;
