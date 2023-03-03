@@ -1,0 +1,15 @@
+C:\Users\ahmed\RiderProjects\TestTechnique\TestTechnique\bin\Debug\net7.0\TestTechnique.exe
+C:\Users\ahmed\RiderProjects\TestTechnique\TestTechnique\bin\Debug\net7.0\TestTechnique.deps.json
+C:\Users\ahmed\RiderProjects\TestTechnique\TestTechnique\bin\Debug\net7.0\TestTechnique.runtimeconfig.json
+C:\Users\ahmed\RiderProjects\TestTechnique\TestTechnique\bin\Debug\net7.0\TestTechnique.dll
+C:\Users\ahmed\RiderProjects\TestTechnique\TestTechnique\bin\Debug\net7.0\TestTechnique.pdb
+C:\Users\ahmed\RiderProjects\TestTechnique\TestTechnique\obj\Debug\net7.0\TestTechnique.csproj.AssemblyReference.cache
+C:\Users\ahmed\RiderProjects\TestTechnique\TestTechnique\obj\Debug\net7.0\TestTechnique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\RiderProjects\TestTechnique\TestTechnique\obj\Debug\net7.0\TestTechnique.AssemblyInfoInputs.cache
+C:\Users\ahmed\RiderProjects\TestTechnique\TestTechnique\obj\Debug\net7.0\TestTechnique.AssemblyInfo.cs
+C:\Users\ahmed\RiderProjects\TestTechnique\TestTechnique\obj\Debug\net7.0\TestTechnique.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\RiderProjects\TestTechnique\TestTechnique\obj\Debug\net7.0\TestTechnique.dll
+C:\Users\ahmed\RiderProjects\TestTechnique\TestTechnique\obj\Debug\net7.0\refint\TestTechnique.dll
+C:\Users\ahmed\RiderProjects\TestTechnique\TestTechnique\obj\Debug\net7.0\TestTechnique.pdb
+C:\Users\ahmed\RiderProjects\TestTechnique\TestTechnique\obj\Debug\net7.0\TestTechnique.genruntimeconfig.cache
+C:\Users\ahmed\RiderProjects\TestTechnique\TestTechnique\obj\Debug\net7.0\ref\TestTechnique.dll
